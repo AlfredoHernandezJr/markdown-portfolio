@@ -1,1 +1,1 @@
-![Me] (https://github.com/AlfredoHernandezJr/CS113Resume/blob/master/ProfilePicSmall.jpg)
+![Me] (https://drive.google.com/file/d/11r8NtLiZipxp8LShQv75FAiqPvFqXoXM/view)
