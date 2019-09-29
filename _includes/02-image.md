@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Me] (https://github.com/AlfredoHernandezJr/CS113Resume/blob/master/ProfilePicSmall.jpg)
